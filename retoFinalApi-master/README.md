@@ -16,6 +16,8 @@ DB_PORT=3306
 Create a _database.sqlite_ file in the _database_ directory
 
 ```
+coposer update
+...
 # Run the webserver on port 8000
 php artisan serve
 ```
